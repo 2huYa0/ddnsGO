@@ -1,5 +1,5 @@
 #!/bin/bash
-apt install curl -y
+yum install curl -y
 systemctl stop ddns-go
 rm /usr/bin/ddns-go
 mkdir ./ddns
