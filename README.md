@@ -3,7 +3,7 @@
 一键脚本命令：
 
 ```
-wget -qO- https://github.com/JasonHe/ddns/raw/main/ddns.sh | bash
+wget -qO- https://github.com/zowei2016/ddnsGO/raw/main/ddns.sh | bash
 ```
 
 一键ddns（基于ddns-go)
