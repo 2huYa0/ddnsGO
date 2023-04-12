@@ -1,6 +1,6 @@
 # ddns
 
-一键脚本命令：
+一键脚本命令：(for centos7)
 
 ```
 wget -qO- https://github.com/zowei2016/ddnsGO/raw/main/ddns.sh | bash
