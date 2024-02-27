@@ -3,7 +3,7 @@
 一键脚本命令：(for Debian11)
 
 ```
-wget -qO- https://github.com/2huYa0/ddnsGO/blob/main/ddns.sh | bash
+wget -qO- https://github.com/2huYa0/ddnsGO/raw/main/ddns.sh | bash
 ```
 
 一键ddns（基于ddns-go)
